@@ -1,0 +1,5 @@
+# Plum-Island base URL (include scheme and optional port).
+# Dedicated read-only Plum account; not MCP listener/client credentials.
+hostname: "https://plum.example.invalid"
+username: ""
+password: ""
